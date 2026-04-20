@@ -1,0 +1,3 @@
+<?php
+PRINT "hello mkc";
+?>
